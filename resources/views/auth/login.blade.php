@@ -37,13 +37,13 @@
                   <p>Inicia session</p>
 
                   <div class="form-outline mb-4">
-                    <input type="email" id="form2Example11" name="usuario" class="form-control"
+                    <input type="email" id="form2Example11" name="name" class="form-control"
                       placeholder="Usuario" />
                     <label class="form-label" for="form2Example11">Usuario</label>
                   </div>
 
                   <div class="form-outline mb-4">
-                    <input type="password" name="contrasena" id="form2Example22" class="form-control" />
+                    <input type="password" name="password" id="form2Example22" class="form-control" />
                     <label class="form-label" for="form2Example22">Contraseña</label>
                   </div>
 
